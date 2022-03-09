@@ -67,7 +67,7 @@ $(document).ready(function () {
 
   var userimg = $("<img>").attr(
     "src",
-    "https://test-hosting-8f9bf.web.app/assets/avatar.jpg"
+    "https://images.unsplash.com/photo-1583089892943-e02e5b017b6a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max"
   );
 
   var menubtg = $("<div>").attr("id", "menu-btn");
